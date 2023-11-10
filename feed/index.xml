@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>portfolio</title>
+	<title>Sahaj Raj Malla</title>
 	<atom:link href="https://ganymede451.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ganymede451.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Nov 2023 15:31:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Nov 2023 16:01:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
 		<title>HONORS</title>
 		<link>https://ganymede451.github.io/portfolio/2023/11/09/honors/</link>
@@ -29,9 +29,33 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ganymede451.github.io/portfolio/?p=35</guid>
 
-					<description><![CDATA[Winner &#8211; Seeds for the Future Nepal, 2023, Huawei Technologies Co., Ltd. Sept 18, 2023Led the lead and represent Nepal in Huawei’s esteemed &#8220;Seeds for the Future&#8221; program. Immersed in atransformative journey, encompassing tech bootcamps, international collaboration, and exposure to Huawei’s global innovations in Shenzhen &#38; Shanghai. Grasped insights into emerging technologies and cultivatedrelationships with [&#8230;]]]></description>
+					<description><![CDATA[Winner &#8211; Seeds for the Future Nepal, 2023, Huawei Technologies Co., Ltd. Sept 18, 2023Led the lead and represent Nepal in Huawei’s esteemed &#8220;Seeds for the Future&#8221; program. Immersed in atransformative journey, encompassing tech bootcamps, international collaboration, and exposure to Huawei’s global innovations in Shenzhen &#38; Shanghai. Grasped insights into emerging technologies and cultivatedrelationships with talented peers from the Asia-Pacific region. Winner &#8211; KU Hackfest 2023 &#8211; OSM Category, Kathmandu University Computer Club Oct 2, 2023Led &#8220;Green Pulse,&#8221; a tool designed to bridge the gap between sustainable development and environmentalprotection in Nepal by providing clear, visual insights into the environmental]]></description>
 										<content:encoded><![CDATA[
-<p>Winner &#8211; Seeds for the Future Nepal, 2023, Huawei Technologies Co., Ltd. Sept 18, 2023<br>Led the lead and represent Nepal in Huawei’s esteemed &#8220;Seeds for the Future&#8221; program. Immersed in a<br>transformative journey, encompassing tech bootcamps, international collaboration, and exposure to Huawei’s global innovations in Shenzhen &amp; Shanghai. Grasped insights into emerging technologies and cultivated<br>relationships with talented peers from the Asia-Pacific region.<br>Winner &#8211; KU Hackfest 2023 &#8211; OSM Category, Kathmandu University Computer Club Oct 2, 2023<br>Led &#8220;Green Pulse,&#8221; a tool designed to bridge the gap between sustainable development and environmental<br>protection in Nepal by providing clear, visual insights into the environmental impact of development projects,<br>fostering a harmonious blend of growth and nature preservation.<br>Winner &#8211; Infinity Codewave, Department of Mathematics, Kathmandu University Aug 29, 2023<br>Led a team in a 24-hour hackathon to develop a unique solution for a Metric-based House Address hashing<br>problem. Created a web application that simplified the navigation and accessibility of 30K buildings by hashing<br>them to landmarks and directions, showcasing the results through a compelling presentation to judges.<br>Winner &#8211; AI Competition &#8211; Text Challenge, IT MEET 2022, Kathmandu University Aug 14, 2022<br>I was awarded this honor for developing the DistilBERT model with Sequence Classification on 9 newsgroup<br>datasets for the Nepali language with 95.475% accuracy. It was trained using Transfer Learning on a pretrained<br>model from HuggingFace called Suyogyart/nepali-16-newsgroups-classification. I was awarded Rs 12,000 for this<br>competition, which was organized by F1soft and Kathmandu University. I was solo instead of a team of 5.<br>Winner &#8211; AI Competition &#8211; Data Visualization, IT MEET 2022, Kathmandu University Aug 14, 2022<br>I was awarded this honor for performing exploratory data analysis and preparing a one-page poster on Nepal’s<br>commodities trades. I was awarded Rs 8,000 for this competition, which was organized by F1soft and Kathmandu<br>University. I was solo instead of a team of 5.<br>Winner &#8211; Youth Innovation Challenge 2022, Social Changemakers and Innovators (SOCHAI) Aug 18, 2022<br>I received this award for developing a mobile app focused on nutrition that used AI to easily log, recommend, and<br>track daily consumption. This software calculates calories with barcodes, scanned nutrition labels using OCR if it is<br>a packed food item, and image classification, and quantity measurement with images if it is a prepared food item.<br>I contributed as an AI developer to this project, and Team NutriAI, which also included Diwas Lamichhane and<br>Dharamnath Sah, took first place</p>
+<p><br><strong>Winner</strong> &#8211; Seeds for the Future Nepal, 2023, Huawei Technologies Co., Ltd. Sept 18, 2023<br>Led the lead and represent Nepal in Huawei’s esteemed &#8220;Seeds for the Future&#8221; program. Immersed in a<br>transformative journey, encompassing tech bootcamps, international collaboration, and exposure to Huawei’s </p>
+
+
+
+<p>global innovations in Shenzhen &amp; Shanghai. Grasped insights into emerging technologies and cultivated<br>relationships with talented peers from the Asia-Pacific region.</p>
+
+
+
+<p><br><strong>Winner</strong> &#8211; KU Hackfest 2023 &#8211; OSM Category, Kathmandu University Computer Club Oct 2, 2023<br>Led &#8220;Green Pulse,&#8221; a tool designed to bridge the gap between sustainable development and environmental<br>protection in Nepal by providing clear, visual insights into the environmental impact of development projects,<br>fostering a harmonious blend of growth and nature preservation.<br></p>
+
+
+
+<p><strong>Winner</strong> &#8211; Infinity Codewave, Department of Mathematics, Kathmandu University Aug 29, 2023<br>Led a team in a 24-hour hackathon to develop a unique solution for a Metric-based House Address hashing<br>problem. Created a web application that simplified the navigation and accessibility of 30K buildings by hashing<br>them to landmarks and directions, showcasing the results through a compelling presentation to judges.</p>
+
+
+
+<p><br><strong>Winner</strong> &#8211; AI Competition &#8211; Text Challenge, IT MEET 2022, Kathmandu University Aug 14, 2022<br>I was awarded this honor for developing the DistilBERT model with Sequence Classification on 9 newsgroup<br>datasets for the Nepali language with 95.475% accuracy. It was trained using Transfer Learning on a pretrained<br>model from HuggingFace called Suyogyart/nepali-16-newsgroups-classification. I was awarded Rs 12,000 for this<br>competition, which was organized by F1soft and Kathmandu University. I was solo instead of a team of 5.<br></p>
+
+
+
+<p><strong>Winner</strong> &#8211; AI Competition &#8211; Data Visualization, IT MEET 2022, Kathmandu University Aug 14, 2022<br>I was awarded this honor for performing exploratory data analysis and preparing a one-page poster on Nepal’s<br>commodities trades. I was awarded Rs 8,000 for this competition, which was organized by F1soft and Kathmandu<br>University. I was solo instead of a team of 5.<br></p>
+
+
+
+<p><strong>Winner</strong> &#8211; Youth Innovation Challenge 2022, Social Changemakers and Innovators (SOCHAI) Aug 18, 2022<br>I received this award for developing a mobile app focused on nutrition that used AI to easily log, recommend, and<br>track daily consumption. This software calculates calories with barcodes, scanned nutrition labels using OCR if it is<br>a packed food item, and image classification, and quantity measurement with images if it is a prepared food item.<br>I contributed as an AI developer to this project, and Team NutriAI, which also included Diwas Lamichhane and<br>Dharamnath Sah, took first place</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ganymede451.github.io/portfolio/2023/11/09/honors/feed/</wfw:commentRss>
@@ -69,9 +93,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ganymede451.github.io/portfolio/?p=31</guid>
 
-					<description><![CDATA[B. Sc. in Computational Mathematics, Kathmandu University Oct 2022 — PresentAI fellowship 2023, Fusemachines Nepal Dec 2022 — PresentWomanium Quantum 2023, Womanium and QWorld Jul 2023 — PresentData Science Fellowship with DataCamp, Code for Nepal Dec 2021 — Aug 2023Annual Nepal AI School 2023, NepAl Applied Mathematics and Informatics Institute for research May 2021 — [&#8230;]]]></description>
+					<description><![CDATA[B. Sc. in Computational Mathematics, Kathmandu University Oct 2022 — PresentAI fellowship 2023, Fusemachines Nepal Dec 2022 — PresentWomanium Quantum 2023, Womanium and QWorld Jul 2023 — PresentData Science Fellowship with DataCamp, Code for Nepal Dec 2021 — Aug 2023Annual Nepal AI School 2023, NepAl Applied Mathematics and Informatics Institute for research May 2021 — June 2022Introduction to Quantum Computing, The Coding School and IBM Sep 2021 — Apr 2022School Leaving Certificate (SLC), Kanjirowa National School 2018 — 2020Secondary Education Examination (SEE) , Vidhya Sagar English Secondary School 2005 — 2018]]></description>
 										<content:encoded><![CDATA[
-<p>B. Sc. in Computational Mathematics, Kathmandu University Oct 2022 — Present<br>AI fellowship 2023, Fusemachines Nepal Dec 2022 — Present<br>Womanium Quantum 2023, Womanium and QWorld Jul 2023 — Present<br>Data Science Fellowship with DataCamp, Code for Nepal Dec 2021 — Aug 2023<br>Annual Nepal AI School 2023, NepAl Applied Mathematics and Informatics Institute for research May 2021 — June 2022<br>Introduction to Quantum Computing, The Coding School and IBM Sep 2021 — Apr 2022<br>School Leaving Certificate (SLC), Kanjirowa National School 2018 — 2020<br>Secondary Education Examination (SEE) , Vidhya Sagar English Secondary School 2005 — 2018</p>
+<p><strong>B. Sc. in Computational Mathematics</strong>, Kathmandu University Oct 2022 — Present<br><strong>AI fellowship 2023</strong>, Fusemachines Nepal Dec 2022 — Present<br><strong>Womanium Quantum 2023</strong>, Womanium and QWorld Jul 2023 — Present<br><strong>Data Science Fellowship with DataCamp</strong>, Code for Nepal Dec 2021 — Aug 2023<br><strong>Annual Nepal AI School 2023</strong>, NepAl Applied Mathematics and Informatics Institute for research May 2021 — June 2022<br><strong>Introduction to Quantum Computing</strong>, The Coding School and IBM Sep 2021 — Apr 2022<br><strong>School Leaving Certificate (SLC),</strong> Kanjirowa National School 2018 — 2020<br><strong>Secondary Education Examination (SEE)</strong> , Vidhya Sagar English Secondary School 2005 — 2018</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ganymede451.github.io/portfolio/2023/11/09/education/feed/</wfw:commentRss>
@@ -89,7 +113,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ganymede451.github.io/portfolio/?p=29</guid>
 
-					<description><![CDATA[Evaluating XGBoost Algorithm for Nepali Stock Price Prediction, IEEE Oct 13, 2023Developed stock prediction model for Nepali market via XGBoost, and presented the research paper atInternational Conference on Technologies for Computer, Electrical, Electronics &#38; Communication 2023 (ICT-CEEL2023).Getting Started with GreatAPI: A Comprehensive Tutorial, AWSTip Aug 3, 2023A thorough tutorial guiding through the setup and utilization [&#8230;]]]></description>
+					<description><![CDATA[Evaluating XGBoost Algorithm for Nepali Stock Price Prediction, IEEE Oct 13, 2023Developed stock prediction model for Nepali market via XGBoost, and presented the research paper atInternational Conference on Technologies for Computer, Electrical, Electronics &#38; Communication 2023 (ICT-CEEL2023).Getting Started with GreatAPI: A Comprehensive Tutorial, AWSTip Aug 3, 2023A thorough tutorial guiding through the setup and utilization of GreatAPI(Authored by myself), a Pythonframework, for simplifying the creation of web applications and APIs, and demonstrating its application infostering rapid, collaborative development.The Eternal Dance of Wisdom, War, and Serenity, Medium Oct 18, 2023An exploration of a modern AI-generated image of Lord Krishna, illustrating the]]></description>
 										<content:encoded><![CDATA[
 <p>Evaluating XGBoost Algorithm for Nepali Stock Price Prediction, IEEE Oct 13, 2023<br>Developed stock prediction model for Nepali market via XGBoost, and presented the research paper at<br>International Conference on Technologies for Computer, Electrical, Electronics &amp; Communication 2023 (ICT-CEEL<br>2023).<br>Getting Started with GreatAPI: A Comprehensive Tutorial, AWSTip Aug 3, 2023<br>A thorough tutorial guiding through the setup and utilization of GreatAPI(Authored by myself), a Python<br>framework, for simplifying the creation of web applications and APIs, and demonstrating its application in<br>fostering rapid, collaborative development.<br>The Eternal Dance of Wisdom, War, and Serenity, Medium Oct 18, 2023<br>An exploration of a modern AI-generated image of Lord Krishna, illustrating the harmonious coalescence of ancient<br>wisdom from Bhagavad Gita and contemporary AI technology, which evokes a reflection on timeless teachings<br>amidst life’s adversities.<br>Bird’s eye view of Airflow, Medium May 13, 2022<br>Understand the pill of Airflow with a glass of water of analogy.<br>Procedure for Scientific Paper Publication, Medium May 13, 2022<br>Procedure to one of the many journeys to publishing your research papers in journals.</p>
 ]]></content:encoded>
@@ -109,13 +133,13 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ganymede451.github.io/portfolio/?p=27</guid>
 
-					<description><![CDATA[GreatAPI (Personal Project – Open-sourced Python Web Framework) Jun 2022 – PresentGreatAPI framework, Full-stack FastAPI framework.ChayoRent (Founder of ChayoRent) Jan 2023 – PresentTech-based Rental services.vyesna.com (Founder of vyesna.com) Apr 2020 – Mar 2021Nepal’s network of Employers and Freelancers.Solving Human Trafficking on a Quantum Computer (Associated with OneQuantum) Nov 2021 – Apr 2022The Quantum Approximate Optimization [&#8230;]]]></description>
+					<description><![CDATA[GreatAPI (Personal Project – Open-sourced Python Web Framework) Jun 2022 – PresentGreatAPI framework, Full-stack FastAPI framework.ChayoRent (Founder of ChayoRent) Jan 2023 – PresentTech-based Rental services.vyesna.com (Founder of vyesna.com) Apr 2020 – Mar 2021Nepal’s network of Employers and Freelancers.Solving Human Trafficking on a Quantum Computer (Associated with OneQuantum) Nov 2021 – Apr 2022The Quantum Approximate Optimization Algorithm and the Max-Cut problem are used to find the best nodeconfigurations.DistilBERT &#8211; Nepali News Classification (Associated with IT MEET 2022) 13 Aug 2022 – 14 Aug 2022DistilBERT model with Sequence Classification on 9 newsgroup datasets for the Nepali language with 95.475%accuracy. The model has]]></description>
 										<content:encoded><![CDATA[
-<p><br>GreatAPI (Personal Project – Open-sourced Python Web Framework) Jun 2022 – Present<br>GreatAPI framework, Full-stack FastAPI framework.<br>ChayoRent (Founder of ChayoRent) Jan 2023 – Present<br>Tech-based Rental services.<br>vyesna.com (Founder of vyesna.com) Apr 2020 – Mar 2021<br>Nepal’s network of Employers and Freelancers.<br>Solving Human Trafficking on a Quantum Computer (Associated with OneQuantum) Nov 2021 – Apr 2022<br>The Quantum Approximate Optimization Algorithm and the Max-Cut problem are used to find the best node<br>configurations.<br>DistilBERT &#8211; Nepali News Classification (Associated with IT MEET 2022) 13 Aug 2022 – 14 Aug 2022<br>DistilBERT model with Sequence Classification on 9 newsgroup datasets for the Nepali language with 95.475%<br>accuracy. The model has also been uploaded to Hugging Face as sahajrajmalla/patrakar and is available to use<br>for free</p>
+<p><br><strong>GreatAPI </strong>(Personal Project – Open-sourced Python Web Framework) Jun 2022 – Present<br><strong>GreatAPI framework</strong>, Full-stack FastAPI framework.<br><strong>ChayoRent</strong> (Founder of ChayoRent) Jan 2023 – Present<br>Tech-based Rental services.<br><strong>vyesna.com </strong>(Founder of vyesna.com) Apr 2020 – Mar 2021<br>Nepal’s network of Employers and Freelancers.<br><strong>Solving Human Trafficking on a Quantum Computer</strong> (Associated with OneQuantum) Nov 2021 – Apr 2022<br>The Quantum Approximate Optimization Algorithm and the Max-Cut problem are used to find the best node<br>configurations.<br><strong>DistilBERT</strong> &#8211; Nepali News Classification (Associated with IT MEET 2022) 13 Aug 2022 – 14 Aug 2022<br>DistilBERT model with Sequence Classification on 9 newsgroup datasets for the Nepali language with 95.475%<br>accuracy. The model has also been uploaded to Hugging Face as sahajrajmalla/patrakar and is available to use<br>for free</p>
 
 
 
-<p>Mission Oxgyen Web Portal (Associated with Robotics Association of Nepal and Mission Oxygen Team) May 2021 – Jun<br>2022<br>Facilitating vaccines, ventilators, oxygen cylinders, and hospital details in the COVID-19 pandemic.<br>chayorooms.com (Personal project) Jan 2020 – Mar 2020<br>Short-term room rental services in Nepal.<br>memespot (Personal project) Jan 2019 – Feb 2019<br>Web app that lets you share memes.<br>CO2 Calculator API (Personal project) Aug 2022 – Sep 2022<br>The API enables people to create events, join events, and measure the carbon footprint produced by each<br>participant to get insights about online and onsite carbon emissions.</p>
+<p><strong>Mission Oxgyen Web Portal </strong>(Associated with Robotics Association of Nepal and Mission Oxygen Team) May 2021 – Jun<br>2022<br>Facilitating vaccines, ventilators, oxygen cylinders, and hospital details in the COVID-19 pandemic.<br><strong>chayorooms.com</strong> (Personal project) Jan 2020 – Mar 2020<br>Short-term room rental services in Nepal.<br><strong>memespo</strong>t (Personal project) Jan 2019 – Feb 2019<br>Web app that lets you share memes.<br><strong>CO2 Calculator API</strong> (Personal project) Aug 2022 – Sep 2022<br>The API enables people to create events, join events, and measure the carbon footprint produced by each<br>participant to get insights about online and onsite carbon emissions.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ganymede451.github.io/portfolio/2023/11/09/projects/feed/</wfw:commentRss>
@@ -133,9 +157,21 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ganymede451.github.io/portfolio/?p=24</guid>
 
-					<description><![CDATA[Website Manager May 2023 — PresentKathmandu University Robotics Club – Executive Member – 0 year(s), 6 month(s) Dhulikhel, NepalKURC is an inter-department club of enthusiastic students which is working in the field of Robotics including all itssubsidiaries (Electronics, Mechanical, Computer, Geomatics and others). KURC seeks to increase student interestand involvement in science, technology, engineering and [&#8230;]]]></description>
+					<description><![CDATA[Website Manager May 2023 — PresentKathmandu University Robotics Club – Executive Member – 0 year(s), 6 month(s) Dhulikhel, NepalKURC is an inter-department club of enthusiastic students which is working in the field of Robotics including all itssubsidiaries (Electronics, Mechanical, Computer, Geomatics and others). KURC seeks to increase student interestand involvement in science, technology, engineering and mathematics through learning by doing dictum. Lead Quantum Computing Researcher Mar 2021 — Mar 2023OneQuantum – Apprenticeship – Volunteer – 2 years Munich, GermanyA community for all those interested and active in quantum tech from around the world to come together and grow.]]></description>
 										<content:encoded><![CDATA[
-<p>Website Manager May 2023 — Present<br>Kathmandu University Robotics Club – Executive Member – 0 year(s), 6 month(s) Dhulikhel, Nepal<br>KURC is an inter-department club of enthusiastic students which is working in the field of Robotics including all its<br>subsidiaries (Electronics, Mechanical, Computer, Geomatics and others). KURC seeks to increase student interest<br>and involvement in science, technology, engineering and mathematics through learning by doing dictum.<br>Lead Quantum Computing Researcher Mar 2021 — Mar 2023<br>OneQuantum – Apprenticeship – Volunteer – 2 years Munich, Germany<br>A community for all those interested and active in quantum tech from around the world to come together and grow.</p>
+<p class="has-large-font-size"><strong>Website Manager</strong> </p>
+
+
+
+<p>May 2023 — Present<br><strong>Kathmandu University Robotics Club</strong> – Executive Member – 0 year(s), 6 month(s) Dhulikhel, Nepal<br>KURC is an inter-department club of enthusiastic students which is working in the field of Robotics including all its<br>subsidiaries (Electronics, Mechanical, Computer, Geomatics and others). KURC seeks to increase student interest<br>and involvement in science, technology, engineering and mathematics through learning by doing dictum.<br></p>
+
+
+
+<p class="has-large-font-size"><strong>Lead Quantum Computing Researcher</strong></p>
+
+
+
+<p> Mar 2021 — Mar 2023<br><strong>OneQuantum</strong> – Apprenticeship – Volunteer – 2 years Munich, Germany<br>A community for all those interested and active in quantum tech from around the world to come together and grow.</p>
 
 
 
@@ -175,9 +211,13 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ganymede451.github.io/portfolio/?p=22</guid>
 
-					<description><![CDATA[Data Scientist Sep 2021 — Jan 2023Naamche Technology – Full time – 1 year 4 months Kathmandu, NepalA product lab that specializes in AI-powered web and mobile software solutions is based in Wilmington, Delaware,USA Data Engineer Mar 2021 — Sep 2021Devfinity Nepal – Full time – 8 months Kathmandu, NepalIT Services and IT Consulting based [&#8230;]]]></description>
+					<description><![CDATA[Data Scientist Sep 2021 — Jan 2023Naamche Technology – Full time – 1 year 4 months Kathmandu, NepalA product lab that specializes in AI-powered web and mobile software solutions is based in Wilmington, Delaware,USA AI Researcher Jul 2023 — PresentNepAL Applied Mathematics and Informatics Institute for Research – Part time – 0 year(s), 4 month(s) Kathmandu, NepalLeveraging AI and Computing Sciences to Address Global Challenges and Democratize Technology inLow-to-Middle-Income Countries. Data Engineer Mar 2021 — Sep 2021Devfinity Nepal – Full time – 8 months Kathmandu, NepalIT Services and IT Consulting based on Salt Lake City, Utah, USA Founder April 2020]]></description>
 										<content:encoded><![CDATA[
-<p>Data Scientist Sep 2021 — Jan 2023<br>Naamche Technology – Full time – 1 year 4 months Kathmandu, Nepal<br>A product lab that specializes in AI-powered web and mobile software solutions is based in Wilmington, Delaware,<br>USA</p>
+<p class="has-large-font-size"><strong>Data Scientist </strong></p>
+
+
+
+<p><strong>Sep 2021 </strong>— Jan 2023<br><strong>Naamche Technology</strong> – Full time – 1 year 4 months Kathmandu, Nepal<br>A product lab that specializes in AI-powered web and mobile software solutions is based in Wilmington, Delaware,<br>USA</p>
 
 
 
@@ -190,10 +230,24 @@
 
 
 
-<li>Develop machine learning and deep learning algorithms to predict the various outcomes of features of real<br>estate for potential investment.<br>AI Researcher Jul 2023 — Present<br>NepAL Applied Mathematics and Informatics Institute for Research – Part time – 0 year(s), 4 month(s) Kathmandu, Nepal<br>Leveraging AI and Computing Sciences to Address Global Challenges and Democratize Technology in<br>Low-to-Middle-Income Countries.</li>
+<li>Develop machine learning and deep learning algorithms to predict the various outcomes of features of real<br>estate for potential investment.</li>
+</ul>
 
 
 
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong>AI Researcher</strong></p>
+
+
+
+<p> Jul 2023 — Present<br><strong>NepAL Applied Mathematics and Informatics Institute for Research </strong>– Part time – 0 year(s), 4 month(s) Kathmandu, Nepal<br>Leveraging AI and Computing Sciences to Address Global Challenges and Democratize Technology in<br>Low-to-Middle-Income Countries.</p>
+
+
+
+<ul>
 <li>Engaged in research initiatives aimed at advancing Nepali Natural Language Processing.</li>
 
 
@@ -207,7 +261,15 @@
 
 
 
-<p>Data Engineer Mar 2021 — Sep 2021<br>Devfinity Nepal – Full time – 8 months Kathmandu, Nepal<br>IT Services and IT Consulting based on Salt Lake City, Utah, USA</p>
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size"><strong>Data Engineer</strong></p>
+
+
+
+<p> Mar 2021 — Sep 2021<br><strong>Devfinity Nepal </strong>– Full time – 8 months Kathmandu, Nepal<br>IT Services and IT Consulting based on Salt Lake City, Utah, USA</p>
 
 
 
@@ -217,13 +279,23 @@
 
 
 <li>Worked with Azure Data Factory to store the files scraped from blob storage to MS-SQL and clean it using SQL<br>scripts for commercial purposes.</li>
+</ul>
 
 
 
-<li>Founder April 2020 — Mar 2021<br>vyesna.com – Self employed – 1 year Kathmandu, Nepal<br>Nepal’s network of employers and freelancers</li>
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
+<p class="has-large-font-size"><strong>Founder</strong></p>
+
+
+
+<p> April 2020 — Mar 2021<br><strong>vyesna.com</strong> – Self employed – 1 year Kathmandu, Nepal<br>Nepal’s network of employers and freelancers</p>
+
+
+
+<ul>
 <li>Designed and developed the whole web application.</li>
 
 
@@ -232,7 +304,7 @@
 
 
 
-<li>Scraped jobs-related datasets and developed a recommender system.</li>
+<li>Scraped jobs-related datasets and developed a recommender system</li>
 </ul>
 ]]></content:encoded>
 					
@@ -251,9 +323,13 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ganymede451.github.io/portfolio/?p=1</guid>
 
-					<description><![CDATA[Mathematics Linear Algebra, Complex Number, Calculus, Statistics, ProbabilityQuantum Computing QiskitFrontend HTML, CSS, Tailwindcss, Typescript, Next.jsBackend Python, C++, GreatAPI, Django, FastAPI, RESTful APIs, GraphQL, pytest, pybind11Database PostgresSQL, MS-SQL, Redis, SQLAlchemyData Science Numpy, Pandas, Seaborn, Sci-kit Learn, Tensorflow, Pytorch, Airflow, Streamlit, BeautifulSoup4, Selenium, Scrapy, Doccano, Spacy, HuggingFaceDevOps Docker, TraefikCloud Computing Amazon Web Services(AWS), Azure, Localstack, CPanelManagement tools [&#8230;]]]></description>
+					<description><![CDATA[Mathematics: Linear Algebra, Complex Number, Calculus, Statistics, ProbabilityQuantum Computing: QiskitFrontend: HTML, CSS, Tailwindcss, Typescript, Next.jsBackend: Python, C++, GreatAPI, Django, FastAPI, RESTful APIs, GraphQL, pytest, pybind11Database: PostgresSQL, MS-SQL, Redis, SQLAlchemyData Science: Numpy, Pandas, Seaborn, Sci-kit Learn, Tensorflow, Pytorch, Airflow, Streamlit, BeautifulSoup4, Selenium, Scrapy, Doccano, Spacy, HuggingFaceDevOps: Docker, TraefikCloud Computing: Amazon Web Services(AWS), Azure, Localstack, CPanelManagement tools: Git and Github, pre-commit, Github Actions, Slack, Agile Methodology, Notion, JIRAOthers: • Maintaining clean, structured, and performant code using best practices.]]></description>
 										<content:encoded><![CDATA[
-<p>Mathematics Linear Algebra, Complex Number, Calculus, Statistics, Probability<br>Quantum Computing Qiskit<br>Frontend HTML, CSS, Tailwindcss, Typescript, Next.js<br>Backend Python, C++, GreatAPI, Django, FastAPI, RESTful APIs, GraphQL, pytest, pybind11<br>Database PostgresSQL, MS-SQL, Redis, SQLAlchemy<br>Data Science Numpy, Pandas, Seaborn, Sci-kit Learn, Tensorflow, Pytorch, Airflow, Streamlit, BeautifulSoup4, Selenium, Scrapy, Doccano, Spacy, HuggingFace<br>DevOps Docker, Traefik<br>Cloud Computing Amazon Web Services(AWS), Azure, Localstack, CPanel<br>Management tools Git and Github, pre-commit, Github Actions, Slack, Agile Methodology, Notion, JIRA<br>Others • Maintaining clean, structured, and performant code using best practices.</p>
+<p><strong>Mathematics</strong>: Linear Algebra, Complex Number, Calculus, Statistics, Probability<br><strong>Quantum Computing</strong>: Qiskit<br><strong>Frontend</strong>: HTML, CSS, Tailwindcss, Typescript, Next.js<br><strong>Backend: </strong>Python, C++, GreatAPI, Django, FastAPI, RESTful APIs, GraphQL, pytest, pybind11<br><strong>Database</strong>: PostgresSQL, MS-SQL, Redis, SQLAlchemy<br><strong>Data Science</strong>: Numpy, Pandas, Seaborn, Sci-kit Learn, Tensorflow, Pytorch, Airflow, Streamlit, BeautifulSoup4, Selenium, Scrapy, Doccano, Spacy, HuggingFace<br><strong>DevOps</strong>: Docker, Traefik<br><strong>Cloud Computing: </strong>Amazon Web Services(AWS), Azure, Localstack, CPanel<br><strong>Management tools</strong>: Git and Github, pre-commit, Github Actions, Slack, Agile Methodology, Notion, JIRA<br><strong>Others</strong>:</p>
+
+
+
+<p> • Maintaining clean, structured, and performant code using best practices.</p>
 
 
 
