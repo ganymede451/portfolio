@@ -1,3 +1,0 @@
-<li>
-	<a href="https://ganymede451.github.io/portfolio/wp-content/themes/mcluhan/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function the_permalink() in C:\xampp\htdocs\portfolio\wp-content\themes\mcluhan\content-mobile-search.php:2_Stack trace:_#0 {main}_  thrown in <b>C:\xampp\htdocs\portfolio\wp-content\themes\mcluhan\content-mobile-search.php</b> on line <b>2</b><br />"></a>
-</li>
